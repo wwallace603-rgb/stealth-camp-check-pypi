@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Alabama",
+    "slug": "alabama",
+    "summary": "No statewide rule. Posted signs and local ordinances govern.",
+    "restArea": "Rest areas are for short breaks (typically 30 min – 2 hr). Sleeping is not explicitly prohibited statewide, but local enforcement varies. Many weigh stations post 30-minute limits.",
+    "publicLand": "BLM and National Forest land follow federal rules: 14-day limit, 200 ft from water. No specific state restrictions found.",
+    "cityParking": "Most Alabama cities prohibit overnight vehicle parking on public streets unless explicitly permitted. Check local municipal codes.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Alaska",
+    "slug": "alaska",
+    "summary": "Permissive on public land. Rest areas and cities have local limits.",
+    "restArea": "No statewide rest-area sleeping ban. Some areas post 8-hour limits. Enforcement is limited in rural Alaska.",
+    "publicLand": "Very permissive. BLM and National Forest land allow dispersed camping with 14-day federal limit. Many Alaskans live in vehicles year-round.",
+    "cityParking": "Anchorage and Fairbanks have specific overnight parking restrictions in downtown areas. Rural towns are generally more lenient.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Arizona",
+    "slug": "arizona",
+    "summary": "State trooper rest areas allow 8 hours. City rules vary widely.",
+    "restArea": "Arizona State Trooper rest areas permit up to 8 hours overnight. This is among the most explicit rest-area allowances in the country.",
+    "publicLand": "BLM and National Forest land follow standard federal 14-day rule. Arizona has extensive BLM land (over 7.5 million acres) making it one of the best states for dispersed camping.",
+    "cityParking": "Phoenix, Tucson, and other major cities generally prohibit overnight parking. Some smaller towns are more permissive. Walmart and other businesses set their own policies.",
+    "legalBasis": "A.R.S. § 28-3332 (rest area usage)",
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Arkansas",
+    "slug": "arkansas",
+    "summary": "No statewide rule. BLM and forest land follow federal guidelines.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Individual areas may post their own limits.",
+    "publicLand": "Hot Springs National Park and Ozark National Forest follow standard federal camping rules. BLM land in western Arkansas allows dispersed camping.",
+    "cityParking": "Most cities prohibit overnight vehicle parking on streets. Little Rock and other urban areas enforce this.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "California",
+    "slug": "california",
+    "summary": "Strict urban rules. Rest areas allow up to 8 hours (Caltrans). BLM land is extensive.",
+    "restArea": "Caltrans allows vehicles in rest areas for up to 8 hours before they may be removed (Caltrans Maintenance Manual, Vol. 1 Ch. 3); napping is a listed intended use. Camping is prohibited. Individual areas can post stricter limits — the posted sign governs.",
+    "publicLand": "Extensive BLM (13+ million acres) and National Forest land. 14-day federal limit applies. Many areas have fire restrictions that limit camping seasons. Some BLM areas are closed to overnight stays.",
+    "cityParking": "Most California cities strictly prohibit overnight vehicle parking. LA, SF, and other major cities actively enforce. Some smaller cities are more lenient.",
+    "legalBasis": "Cal. Vehicle Code § 22503 (parking restrictions)",
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Colorado",
+    "slug": "colorado",
+    "summary": "Rest areas allow 8 hours. Extensive public land for dispersed camping.",
+    "restArea": "Colorado state rest areas generally allow up to 8 hours overnight. Some areas are more restrictive. Signs at individual rest areas govern.",
+    "publicLand": "Large BLM and National Forest areas, especially in western and southern Colorado. 14-day federal limit. Some areas have seasonal closures.",
+    "cityParking": "Denver and other cities prohibit overnight parking on public streets. Colorado Springs and smaller towns vary.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Connecticut",
+    "slug": "connecticut",
+    "summary": "No statewide rule. Urban areas enforce no-overnight-parking strictly.",
+    "restArea": "No explicit statewide policy. Rest areas are for short breaks.",
+    "publicLand": "Limited public land. National forest areas in the south follow federal rules. Most of CT is private or state-managed.",
+    "cityParking": "Most Connecticut towns and cities prohibit overnight vehicle parking. Enforcement is common in urban areas.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Delaware",
+    "slug": "delaware",
+    "summary": "Small state with limited options. No specific statewide camping rules.",
+    "restArea": "Limited rest areas. No explicit statewide sleeping policy.",
+    "publicLand": "Very limited public land. Delaware State Forest allows camping in designated areas only.",
+    "cityParking": "Most Delaware cities and towns prohibit overnight vehicle parking.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Florida",
+    "slug": "florida",
+    "summary": "Rest areas allow up to 8 hours. No specific statewide ban on sleeping in vehicles.",
+    "restArea": "Florida rest areas generally allow up to 8 hours. Some areas post shorter limits. No statewide ban on sleeping in a parked vehicle.",
+    "publicLand": "National Forest and BLM land (especially in the panhandle) follow federal 14-day rules. Many state parks prohibit vehicle camping outside designated sites.",
+    "cityParking": "Most Florida cities prohibit overnight parking. Miami, Jacksonville, Tampa enforce actively. Some smaller cities are lenient.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Georgia",
+    "slug": "georgia",
+    "summary": "Rest areas allow 8 hours. State law specifically addresses sleeping in vehicles.",
+    "restArea": "Georgia state law (O.C.G.A. § 40-6-133) allows drivers to rest in vehicles at rest areas for up to 8 hours. This is one of the clearest rest-area allowances in the country.",
+    "publicLand": "Chattahoochee National Forest and BLM land follow standard federal rules. 14-day limit applies.",
+    "cityParking": "Most Georgia cities prohibit overnight vehicle parking. Atlanta, Savannah, and other cities enforce. Some smaller towns are more permissive.",
+    "legalBasis": "O.C.G.A. § 40-6-133 (rest area rest periods)",
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Hawaii",
+    "slug": "hawaii",
+    "summary": "Strict rules. No overnight parking on most beaches and highways.",
+    "restArea": "No rest areas with sleeping allowances. Hawaii does not have interstate rest areas in the traditional sense.",
+    "publicLand": "National Park land (Hawai'i Volcanoes, Kilauea) follows park-specific rules. BLM land is minimal. State land generally prohibits overnight camping outside designated sites.",
+    "cityParking": "Strictly enforced. Honolulu and other urban areas prohibit overnight vehicle parking. Beach parking is heavily restricted.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Idaho",
+    "slug": "idaho",
+    "summary": "Permissive on public land. Rest areas have no explicit statewide limit.",
+    "restArea": "No explicit statewide rest-area sleeping limit. Individual areas may post their own rules.",
+    "publicLand": "Extensive BLM and National Forest land. Idaho is one of the best states for dispersed camping. 14-day federal limit. Many areas are very permissive.",
+    "cityParking": "Most Idaho cities prohibit overnight parking on public streets. Boise and other cities enforce. Rural areas are generally more lenient.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Illinois",
+    "slug": "illinois",
+    "summary": "No statewide rule. Urban areas enforce no-overnight-parking.",
+    "restArea": "Illinois rest areas (on interstate highways) are for short breaks. No explicit statewide sleeping allowance.",
+    "publicLand": "Limited BLM land. National Forest areas (Shawnee, William T. Davis) follow federal rules. Most public land is state-managed.",
+    "cityParking": "Chicago and most Illinois cities strictly prohibit overnight vehicle parking. Enforcement is common.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Indiana",
+    "slug": "indiana",
+    "summary": "No statewide rule. Most cities prohibit overnight parking.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Limited public land. National forest and BLM areas follow federal rules. Most of Indiana is private land.",
+    "cityParking": "Most Indiana cities prohibit overnight vehicle parking on public streets.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Iowa",
+    "slug": "iowa",
+    "summary": "No statewide rule. Limited public land for dispersed camping.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Very limited BLM land. Some National Wildlife Refuges allow day use only. Iowa has very little land suitable for dispersed vehicle camping.",
+    "cityParking": "Most Iowa cities and towns prohibit overnight vehicle parking.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Kansas",
+    "slug": "kansas",
+    "summary": "No statewide rule. BLM land in western Kansas follows federal rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Some rest areas post their own limits.",
+    "publicLand": "BLM land in western Kansas allows dispersed camping with 14-day federal limit. Eastern Kansas has very limited public land.",
+    "cityParking": "Most Kansas cities prohibit overnight vehicle parking. Wichita, Kansas City, and Topeka enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Kentucky",
+    "slug": "kentucky",
+    "summary": "No statewide rule. Limited public land options.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Limited BLM land. National forest areas follow federal rules. Most of Kentucky is private or state-managed land.",
+    "cityParking": "Most Kentucky cities prohibit overnight vehicle parking on public streets.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Louisiana",
+    "slug": "louisiana",
+    "summary": "No statewide rule. Urban areas enforce no-overnight-parking.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Limited public land. National Wildlife Refuges and some state land allow camping in designated areas only.",
+    "cityParking": "Most Louisiana cities prohibit overnight vehicle parking. New Orleans, Baton Rouge enforce actively.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Maine",
+    "slug": "maine",
+    "summary": "Permissive on public land. Forest Service land follows federal rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Maine has few interstate rest areas.",
+    "publicLand": "Forest Service land (Baxter State Park area) and some BLM land allow dispersed camping. 14-day federal limit. Maine is generally permissive.",
+    "cityParking": "Most Maine cities and towns prohibit overnight vehicle parking. Portland and other cities enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "District of Columbia",
+    "slug": "district-of-columbia",
+    "summary": "Single municipality — no interstate rest areas. City rules and posted signs govern.",
+    "restArea": "DC has no interstate highway rest areas (it is a single city). Overnight sleeping in a parked vehicle is governed by local D.C. parking rules and posted signage rather than a statewide rest-area statute.",
+    "publicLand": "Very limited dispersed-camping public land within the District. The National Mall, parks, and surrounding federal land follow their own posted rules; no BLM/National Forest dispersed camping exists inside DC city limits.",
+    "cityParking": "D.C. prohibits overnight parking on most streets unless explicitly permitted by signage. Residential zones (especially near parks and downtown) enforce strictly. Check the specific block's posted restrictions before leaving your vehicle.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-21"
+  },
+  {
+    "name": "Maryland",
+    "slug": "maryland",
+    "summary": "No statewide rule. Urban areas (especially near DC) enforce strictly.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Limited BLM land. National forest areas follow federal rules. Most public land is state-managed.",
+    "cityParking": "Most Maryland cities and counties prohibit overnight vehicle parking. Baltimore and suburbs enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Massachusetts",
+    "slug": "massachusetts",
+    "summary": "Strict urban rules. No specific statewide camping law.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Very limited public land for dispersed camping. Most is state-managed (state forests, reservations).",
+    "cityParking": "Most Massachusetts cities and towns strictly prohibit overnight vehicle parking. Boston enforces actively.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Michigan",
+    "slug": "michigan",
+    "summary": "No statewide rule. State forests and DNR land have specific camping rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "DNR-managed land and state forests have designated camping areas. BLM land is minimal. Dispersed camping is limited to designated areas on most state land.",
+    "cityParking": "Most Michigan cities prohibit overnight vehicle parking. Detroit, Grand Rapids, and other cities enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Minnesota",
+    "slug": "minnesota",
+    "summary": "Permissive in rural areas. DNR land follows specific camping regulations.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Some rest areas post 30-minute limits.",
+    "publicLand": "DNR-managed land allows dispersed camping in many areas. 14-day limit on federal land. Minnesota is generally permissive for vehicle camping in rural areas.",
+    "cityParking": "Most Minnesota cities prohibit overnight vehicle parking. Minneapolis, St. Paul enforce actively.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Mississippi",
+    "slug": "mississippi",
+    "summary": "No statewide rule. Limited public land options.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Very limited public land for dispersed camping. National Wildlife Refuges allow day use only in most areas.",
+    "cityParking": "Most Mississippi cities and towns prohibit overnight vehicle parking.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Missouri",
+    "slug": "missouri",
+    "summary": "No statewide rule. Forest Service and state land follow specific rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Mark Twain National Forest and other federal land follow standard 14-day rules. State forests have designated camping areas.",
+    "cityParking": "Most Missouri cities prohibit overnight vehicle parking. St. Louis, Kansas City enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Montana",
+    "slug": "montana",
+    "summary": "Very permissive on public land. One of the best states for vanlife.",
+    "restArea": "No explicit statewide rest-area sleeping limit. Montana is generally permissive. Individual areas may post their own rules.",
+    "publicLand": "Extensive BLM and National Forest land. Montana is one of the most permissive states for dispersed vehicle camping. 14-day federal limit. Many locals and long-term vehicle dwellers.",
+    "cityParking": "Most Montana cities prohibit overnight parking on public streets, but enforcement is often relaxed in smaller towns. Billings, Missoula, Bozeman vary.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Nebraska",
+    "slug": "nebraska",
+    "summary": "No statewide rule. BLM land in western Nebraska follows federal rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "BLM land in western Nebraska allows dispersed camping. 14-day federal limit. Eastern Nebraska has very limited public land.",
+    "cityParking": "Most Nebraska cities prohibit overnight vehicle parking. Omaha, Lincoln enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Nevada",
+    "slug": "nevada",
+    "summary": "Very permissive on public land. Rest areas allow 8 hours.",
+    "restArea": "Nevada rest areas generally allow up to 8 hours overnight. State law is permissive about sleeping in vehicles in rest areas.",
+    "publicLand": "Extensive BLM land (over 16 million acres — the most of any state). 14-day federal limit. Nevada is one of the best states for dispersed camping and vanlife.",
+    "cityParking": "Las Vegas and Reno prohibit overnight parking on public streets. Smaller towns are generally more permissive. Some areas have specific van-friendly zones.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "New Hampshire",
+    "slug": "new-hampshire",
+    "summary": "No statewide rule. Limited public land. Urban areas enforce no-parking.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "White Mountain National Forest follows federal rules. Limited BLM land. Most public land is state-managed.",
+    "cityParking": "Most New Hampshire cities and towns prohibit overnight vehicle parking.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "New Jersey",
+    "slug": "new-jersey",
+    "summary": "Strict rules. No overnight parking in most urban areas.",
+    "restArea": "New Jersey Turnpike rest areas are for short breaks. No explicit sleeping allowance.",
+    "publicLand": "Very limited public land for dispersed camping. Most is state-managed (state forests, pinelands).",
+    "cityParking": "Most New Jersey cities and towns strictly prohibit overnight vehicle parking. Enforcement is common.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "New Mexico",
+    "slug": "new-mexico",
+    "summary": "Permissive on public land. Extensive BLM and national forest land.",
+    "restArea": "No explicit statewide rest-area sleeping limit. Some areas post their own rules.",
+    "publicLand": "Extensive BLM and National Forest land. New Mexico is very permissive for dispersed camping. 14-day federal limit. Many vanlife-friendly areas.",
+    "cityParking": "Most New Mexico cities prohibit overnight parking. Albuquerque, Santa Fe enforce. Smaller towns are often more lenient.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "New York",
+    "slug": "new-york",
+    "summary": "Strict urban rules. Adirondacks have specific camping regulations.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Some areas post limits.",
+    "publicLand": "Adirondack Park and National Forest land have specific camping rules. BLM land is minimal. 14-day federal limit where applicable.",
+    "cityParking": "New York City and most cities strictly prohibit overnight vehicle parking. Enforcement is very active.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "North Carolina",
+    "slug": "north-carolina",
+    "summary": "No statewide rule. State parks and forests have specific camping rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Some rest areas post 30-minute limits.",
+    "publicLand": "Pisgah and Nantahala National Forests follow federal rules. State forests have designated camping areas. 14-day federal limit.",
+    "cityParking": "Most North Carolina cities prohibit overnight vehicle parking. Charlotte, Raleigh, Asheville enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "North Dakota",
+    "slug": "north-dakota",
+    "summary": "Very permissive on public land. Sparse population means low enforcement.",
+    "restArea": "No explicit statewide rest-area sleeping limit. North Dakota is generally permissive.",
+    "publicLand": "Extensive BLM and National Forest land. Very permissive for dispersed camping. 14-day federal limit. Low population means minimal enforcement pressure.",
+    "cityParking": "Most North Dakota cities prohibit overnight parking, but enforcement is minimal in smaller towns. Fargo, Bismarck vary.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Ohio",
+    "slug": "ohio",
+    "summary": "No statewide rule. Limited public land. Urban areas enforce no-parking.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "Limited BLM land. National forest areas (Cuyahoga Valley) follow federal rules. Most public land is state-managed.",
+    "cityParking": "Most Ohio cities prohibit overnight vehicle parking. Columbus, Cleveland, Cincinnati enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Oklahoma",
+    "slug": "oklahoma",
+    "summary": "No statewide rule. BLM land in western Oklahoma follows federal rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "BLM land in western Oklahoma allows dispersed camping. 14-day federal limit. Eastern Oklahoma has limited public land.",
+    "cityParking": "Most Oklahoma cities prohibit overnight vehicle parking. Oklahoma City, Tulsa enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Oregon",
+    "slug": "oregon",
+    "summary": "Permissive on public land. Rest areas allow 8 hours in many areas.",
+    "restArea": "Many Oregon rest areas allow up to 8 hours overnight. Some areas are more restrictive. Check individual rest area signs.",
+    "publicLand": "Extensive BLM and National Forest land. Oregon is very permissive for dispersed camping. 14-day federal limit. Many vanlife-friendly areas, especially in central and eastern Oregon.",
+    "cityParking": "Portland and other cities prohibit overnight parking on public streets. Smaller towns are often more permissive. Some areas have specific rules for vehicle dwelling.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Pennsylvania",
+    "slug": "pennsylvania",
+    "summary": "No statewide rule. State forests have specific camping regulations.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "State forests and National Forest land (Allegheny) follow specific camping rules. BLM land is minimal. 14-day federal limit where applicable.",
+    "cityParking": "Most Pennsylvania cities and towns prohibit overnight vehicle parking. Philadelphia, Pittsburgh enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Rhode Island",
+    "slug": "rhode-island",
+    "summary": "Small state with very limited camping options. No specific statewide rules.",
+    "restArea": "No rest areas with sleeping allowances.",
+    "publicLand": "Very limited public land. State forests allow camping in designated areas only.",
+    "cityParking": "Most Rhode Island cities and towns prohibit overnight vehicle parking.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "South Carolina",
+    "slug": "south-carolina",
+    "summary": "No statewide rule. State parks and forests have specific camping rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "National forest land (Santee, Congaree) follows federal rules. State forests have designated camping areas.",
+    "cityParking": "Most South Carolina cities prohibit overnight vehicle parking. Charleston, Columbia enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "South Dakota",
+    "slug": "south-dakota",
+    "summary": "Very permissive. State law specifically allows sleeping in vehicles in many situations.",
+    "restArea": "South Dakota is among the most permissive states. Rest areas and highway pull-offs generally allow overnight stays. No explicit statewide time limit found.",
+    "publicLand": "Extensive BLM and National Forest land (Custer, Black Hills). Very permissive for dispersed camping. 14-day federal limit. South Dakota is a top state for vanlife.",
+    "cityParking": "Most South Dakota cities prohibit overnight parking on public streets, but enforcement is minimal in smaller towns. Rapid City, Sioux Falls vary.",
+    "legalBasis": "SDCL § 31-28A (vehicle parking provisions — permissive interpretation)",
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Tennessee",
+    "slug": "tennessee",
+    "summary": "No statewide rule. Great Smoky Mountains has specific camping regulations.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Some rest areas post limits.",
+    "publicLand": "Great Smoky Mountains National Park prohibits overnight vehicle parking outside designated areas. Other National Forest land follows federal 14-day rules.",
+    "cityParking": "Most Tennessee cities prohibit overnight vehicle parking. Nashville, Memphis, Knoxville enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Texas",
+    "slug": "texas",
+    "summary": "Rest areas allow up to 24 hours — among the most permissive caps in the country (Tex. Transp. Code 545.411). Tents/shelters prohibited.",
+    "restArea": "A full day in any rest area — among the most permissive caps (Tex. Transp. Code 545.411). Tents and shelters are prohibited, but sleeping inside a legally parked vehicle is permitted within the 24-hour cap. Individual areas may post stricter limits.",
+    "publicLand": "BLM land in West Texas allows dispersed camping under the 14-day federal limit. National Forest land (Sam Houston, Davy Crockett) follows federal rules. Texas is large and rules vary enormously by region — rural counties are far more permissive than urban areas.",
+    "cityParking": "Most Texas cities prohibit overnight vehicle parking on public streets. Houston, Dallas, Austin, San Antonio enforce actively. Smaller towns and rural counties vary widely — some allow it unless specifically posted against.",
+    "legalBasis": "Tex. Transp. Code § 545.411 (rest area usage)",
+    "lastReviewed": "2026-11-22"
+  },
+  {
+    "name": "Utah",
+    "slug": "utah",
+    "summary": "Permissive on public land. Rest areas allow 8 hours. Great for dispersed camping.",
+    "restArea": "Utah rest areas generally allow up to 8 hours overnight. State is permissive about sleeping in vehicles at rest areas.",
+    "publicLand": "Extensive BLM and National Forest land. Utah is one of the best states for dispersed camping. 14-day federal limit. Many vanlife-friendly areas, especially in the south (Moab, Capitol Reef area).",
+    "cityParking": "Most Utah cities prohibit overnight parking on public streets. Salt Lake City, Provo enforce. Moab and other tourist towns are more permissive.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Vermont",
+    "slug": "vermont",
+    "summary": "No statewide rule. Limited public land. Small towns generally permissive.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Vermont has few interstate rest areas.",
+    "publicLand": "Green Mountain National Forest follows federal rules. Limited BLM land. Most public land is state-managed.",
+    "cityParking": "Most Vermont cities and towns prohibit overnight vehicle parking, but enforcement is often relaxed in small towns.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Virginia",
+    "slug": "virginia",
+    "summary": "No statewide rule. State parks and forests have specific camping rules.",
+    "restArea": "No explicit statewide rest-area sleeping policy. Some rest areas post limits.",
+    "publicLand": "Shenandoah National Park prohibits overnight vehicle parking outside designated areas. Other National Forest land follows federal 14-day rules.",
+    "cityParking": "Most Virginia cities prohibit overnight vehicle parking. Richmond, Virginia Beach, Norfolk enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Washington",
+    "slug": "washington",
+    "summary": "Permissive on public land. Rest areas allow 8 hours in many areas.",
+    "restArea": "Many Washington rest areas allow up to 8 hours overnight. Some areas are more restrictive. Check individual rest area signs.",
+    "publicLand": "Extensive BLM and National Forest land. Washington is permissive for dispersed camping. 14-day federal limit. Olympic National Park has specific rules.",
+    "cityParking": "Seattle and other cities prohibit overnight parking on public streets. Smaller towns are often more permissive. Some areas have specific rules for vehicle dwelling.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "West Virginia",
+    "slug": "west-virginia",
+    "summary": "No statewide rule. Limited public land. Small towns generally permissive.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "National forest land (Monongahela) follows federal rules. Limited BLM land. Most public land is state-managed.",
+    "cityParking": "Most West Virginia cities and towns prohibit overnight vehicle parking, but enforcement is often relaxed.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Wisconsin",
+    "slug": "wisconsin",
+    "summary": "No statewide rule. DNR land follows specific camping regulations.",
+    "restArea": "No explicit statewide rest-area sleeping policy.",
+    "publicLand": "DNR-managed land and National Forest areas follow specific camping rules. BLM land is minimal. 14-day federal limit where applicable.",
+    "cityParking": "Most Wisconsin cities prohibit overnight vehicle parking. Milwaukee, Madison enforce.",
+    "legalBasis": null,
+    "lastReviewed": "2026-11-14"
+  },
+  {
+    "name": "Wyoming",
+    "slug": "wyoming",
+    "summary": "Very permissive. State law specifically addresses vehicle camping. Top state for vanlife.",
+    "restArea": "Wyoming is among the most permissive states. Rest areas and highway pull-offs generally allow overnight stays. State law does not prohibit sleeping in a parked vehicle in most situations.",
+    "publicLand": "Extensive BLM and National Forest land. Wyoming is arguably the most vanlife-friendly state in the country. 14-day federal limit. Very low population means minimal enforcement. Many long-term vehicle dwellers.",
+    "cityParking": "Most Wyoming cities prohibit overnight parking on public streets, but enforcement is minimal. Cheyenne, Cody, Jackson vary. Many smaller towns are very permissive.",
+    "legalBasis": "Wyo. Stat. § 31-6-105 (parking regulations — permissive interpretation for parked vehicles)",
+    "lastReviewed": "2026-11-14"
+  }
+]
